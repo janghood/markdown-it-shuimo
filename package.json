@@ -1,6 +1,6 @@
 {
   "name": "@janghood/markdown-it-shuimo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "markdown-it plugin with shuimo style",
   "main": "index.js",
   "types": "types/index.d.ts",
